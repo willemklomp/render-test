@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Friend": 2,
+    "Aaddress": 2
+  },
+  "models": {
+    "Friend": {
+      "1": "{\"firstname\":\"raul\",\"lastname\":\"san martin y hendrikx\",\"id\":1}"
+    },
+    "Aaddress": {
+      "1": "{\"city\":\"blerick\",\"postcode\":\"5804 AT\",\"street\":\"overloonseweg\",\"house_number\":\"91D\",\"friendId\":1,\"id\":1}"
+    }
+  }
+}
